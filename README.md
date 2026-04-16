@@ -4,7 +4,7 @@ An interactive cinematic birthday website with emotional storytelling. A premium
 
 ## ✨ Live Demo
 
-[View Live Demo](#) <!-- Add your Vercel URL here after deployment -->
+[View Live Demo](https://cinematicbirthdaywishes.vercel.app/) <!-- Add your Vercel URL here after deployment -->
 
 ---
 
