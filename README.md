@@ -70,7 +70,8 @@ An interactive cinematic birthday website with emotional storytelling. A premium
 
 ```bash
 # Clone the repository
-git clone https://github.com/waleedkhokar/birthday-experience.git
+git clone https://github.com/waleedkhokar/midnight-birthday-experience.git
+
 
 # Navigate to project
 cd birthday-experience
